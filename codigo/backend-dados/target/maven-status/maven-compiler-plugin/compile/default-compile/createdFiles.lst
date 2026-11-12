@@ -1,0 +1,14 @@
+br\com\quemresolve\dados\repository\PrestadorRepository.class
+br\com\quemresolve\dados\repository\AvaliacaoRepository.class
+br\com\quemresolve\dados\repository\ContatoRepository.class
+br\com\quemresolve\dados\repository\PerfilRepository.class
+br\com\quemresolve\dados\servidor\RoteadorRequisicoes.class
+br\com\quemresolve\dados\configuracao\Configuracao.class
+br\com\quemresolve\dados\repository\UsuarioRepository.class
+br\com\quemresolve\dados\utilitarios\ArgumentosJson.class
+br\com\quemresolve\dados\servidor\ServidorTcp.class
+br\com\quemresolve\dados\utilitarios\Respostas.class
+br\com\quemresolve\dados\banco\InicializadorBanco.class
+br\com\quemresolve\dados\banco\DB.class
+br\com\quemresolve\dados\repository\SessaoRepository.class
+br\com\quemresolve\dados\Main.class
